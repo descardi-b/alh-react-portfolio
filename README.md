@@ -8,7 +8,7 @@ Technologies used include:
 
 * React
 * Material UI Core & Icons
-* GitHub Pages.
+* GitHub Pages
 
 ## How to Use It
 Simply deploy the app on <a href="https://descardi-b.github.io/alh-react-portfolio/">GitHub Pages</a>.

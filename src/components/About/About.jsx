@@ -30,7 +30,7 @@ function About() {
                     <p>4+ years of experience in the tech and space industries.
                     </p>
                     <p>
-                        providing strategic brand solutions for:
+                        providing strategic messaging solutions for:
                     </p>
                     <p>
                         <h3><span ref={textRef}></span></h3>
