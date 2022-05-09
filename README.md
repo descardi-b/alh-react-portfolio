@@ -8,7 +8,7 @@ Technologies used include:
 
 * React
 * Material UI Core & Icons
-* GitHub Pages
+* Heroku
 
 ## How to Use It
-Simply deploy the app on <a href="https://descardi-b.github.io/alh-react-portfolio/">GitHub Pages</a>.
+Simply deploy the app on <a href="https://tranquil-fortress-65157.herokuapp.com/">Heroku</a>.
