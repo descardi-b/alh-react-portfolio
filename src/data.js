@@ -53,8 +53,14 @@ export const fullstackPortfolio = [
     {
         id: 8,
         title: "Ourspace",
-        img:  'https://raw.githubusercontent.com/descardi-b/ourspace-2/main/images/ourspace-img.png',
+        img:  "https://raw.githubusercontent.com/descardi-b/ourspace-2/main/images/ourspace-img.png",
         url: "https://github.com/descardi-b/ourspace-2",
     },
+    {
+        id: 9,
+        title: "Dreadit",
+        img: "https://raw.githubusercontent.com/descardi-b/dreadit/main/img/dreadit-img-1.png",
+        url: "https://github.com/descardi-b/dreadit",
+    }
 
 ]
